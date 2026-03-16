@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\Aula2-Expressões\bin\Debug\net9.0\Aula2-Expressões.exe
+C:\Users\1442428\Downloads\Aula2-Expressões\bin\Debug\net9.0\Aula2-Expressões.deps.json
+C:\Users\1442428\Downloads\Aula2-Expressões\bin\Debug\net9.0\Aula2-Expressões.runtimeconfig.json
+C:\Users\1442428\Downloads\Aula2-Expressões\bin\Debug\net9.0\Aula2-Expressões.dll
+C:\Users\1442428\Downloads\Aula2-Expressões\bin\Debug\net9.0\Aula2-Expressões.pdb
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.AssemblyInfo.cs
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.dll
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\refint\Aula2-Expressões.dll
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.pdb
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\Aula2-Expressões.genruntimeconfig.cache
+C:\Users\1442428\Downloads\Aula2-Expressões\obj\Debug\net9.0\ref\Aula2-Expressões.dll
